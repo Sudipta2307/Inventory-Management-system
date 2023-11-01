@@ -1,1 +1,2 @@
 # Inventory-Management-system
+An inventory management system in C is a software application designed to help businesses or organizations keep track of their inventory, which may consist of various products, materials, or items. Such a system allows for efficient monitoring and control of stock levels, helps with ordering and restocking items, and provides valuable insights into inventory-related data. 
